@@ -9,6 +9,12 @@ html {
 .color-1 {
     color: yellow;
 }
+.color-2 {
+    color: red;
+}
+.novidade {
+    text-align: center;
+}
 .titulo {
     margin-left: 6%;
     font-size: 50px;
